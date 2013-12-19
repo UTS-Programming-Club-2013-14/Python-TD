@@ -1,0 +1,22 @@
+#Format your code like this: 
+import statements
+
+class Example():
+    """
+    Use a doc string
+    http:#www.python.org/dev/peps/pep-0257/
+    tl;dr: explain what your class does and format it like this.
+    """
+
+    def __init__(self):
+        "Put your constructor at the beginning"
+        pass
+
+    def function (x):
+        "Intelligent docstrings are good. This function returns 4."
+        return 4
+        
+        
+"""
+you should test stuff at the bottom, but comment it out.
+"""
