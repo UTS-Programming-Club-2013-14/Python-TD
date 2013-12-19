@@ -1,0 +1,11 @@
+==Classes==
+Tower: Shoots bullets.
+Bullet: Projectile that does damage. 
+Enemy: Exactly what you think it is.
+Map: Exactly what you think it is. Contains a path, image.
+
+Game: Main class. 
+
+
+==UI Stuff==
+People need to learn UI first. 
